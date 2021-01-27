@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, 👋 it's so nice of you to join us...
 
 <!--
 **phillipmerriman/phillipmerriman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
