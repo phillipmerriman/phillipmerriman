@@ -1,5 +1,8 @@
 ### Hi there, 👋 it's so nice of you to join us...
 
+##Some words about me
+Full-Stack Software Engineer leveraging a background in music composition and record production to provide a unique approach to creating and developing modern web apps for everyday users. Earned a certificate in Full Stack Web Development from the University of Minnesota Coding Boot Camp. Results-oriented and well-versed in promoting object-oriented approaches to real-time software development. Analytical, independent learner, detail and team-oriented.
+
 <!--
 **phillipmerriman/phillipmerriman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
